@@ -1,0 +1,13 @@
+.gradle/
+gradle/
+.idea/
+target/
+*.iml
+*.yaml
+*.bin
+*.lock
+gradlew.bat
+gradlew
+build.gradle
+
+Shared Bills Splitter/task/
