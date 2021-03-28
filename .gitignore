@@ -11,3 +11,7 @@ gradlew
 build.gradle
 
 Shared Bills Splitter/task/
+
+Zookeeper/task/__pycache__/
+
+Zookeeper/task/zookeeper/__pycache__/
